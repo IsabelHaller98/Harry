@@ -1,0 +1,13 @@
+from,to,weight
+Ha,Ro,3
+He,Ha,3
+Fl,Du,1
+Du,Fl,3
+Gi,Ha,3
+Ro,He,1
+Ar,Mo,1
+Mo,Ar,1
+Ge,Fr,1
+Fr,Ge,2
+Ja,Li,2
+Li,Ja,1
